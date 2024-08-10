@@ -85,6 +85,7 @@
 
       &.active {
         background-color: $slider-indicator-color;
+        opacity: 0;
       }
     }
   }

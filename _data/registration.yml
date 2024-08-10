@@ -1,0 +1,19 @@
+description:
+    title: "Informazioni Generali"
+    paragraphs:
+        - paragraph:
+            - line: "Le iscrizioni saranno attive fino al <b>2 settembre 2024</b>."
+        - paragraph:
+            - line: "Per partecipare all'evento, è necessario compilare il form e versare la quota di iscrizione di <b>10 euro</b> entro il 2 settembre alle ore 12:00."
+            - line: "La quota di iscrizione comprende il materiale della conferenza e l'attestato di partecipazione."
+            - line: "La quota di partecipazione non deve essere versata dagli iscritti all'intero Congresso."
+            - line: "L'iscrizione non sarà considerata effettiva fino al versamento dell'eventuale quota."
+            - line: "La ricevuta di iscrizione, l'attestato di partecipazione, il badge e il materiale congressuale potranno essere ritirati presso la Segreteria del Congresso a partire da mercoledì 11 settembre."
+        - paragraph:
+            - line: "<i>Il bonifico dovrà essere effettuato a:</i>"
+            - line: "Beneficiario: Associazione Italiana Studenti di Fisica"
+            - line: "IBAN: IT20J0306909606100000133131"
+            - line: "BIC/SWIFT: BCITITMMXXX"
+            - line: "Causale: NOME COGNOME Quota iscrizione SG2024"
+
+ending_date: "2024-09-02 12:00"

@@ -1,0 +1,15 @@
+longname: "<b>Sezione Giovani 2024</b>"
+logo: ""
+who:
+    text: "Tutti gli studenti interessati possono partecipare!"
+
+when: "Giovedì 12 settembre 2024, dalle 9:00 alle 13:00"
+
+where: "Nuovo Distretto Navile - Edificio UE1 dell'Università - Bologna"
+
+slideshow:
+  - img: "img/SG24_sfondo_desktop.png"
+    alt: "110° Congresso Nazionale SIF"
+    mobile: "img/SG24_sfondo_cell.png"
+
+paragraph: "La Società Italiana di Fisica, in collaborazione con il network di giovani ricercatori della European Physical Society (EPS) Young Minds e l'Associazione Italiana Studenti di Fisica (AISF), organizzano dal 2015 la Sezione Giovani, un momento del Congresso SIF espressamente dedicato ad un pubblico giovane, con relazioni che possano favorirne lo sviluppo scientifico e professionale su uno specifico campo della fisica, ogni anno differente. Quest'anno, per unirci alle celebrazioni dei 150 anni dalla nascita di Guglielmo Marconi e approfittando della collocazione del Congresso SIF proprio a Bologna, sua città natale, la Sezione Giovani intitolata “Da Marconi al Cloud” sarà dedicata proprio all'inventore della Radio."

@@ -1,0 +1,46 @@
+schedule:
+  - day: 12/09
+    date: "120924"
+    day_ex: Giovedì 12 Settembre
+    short_descr:
+    activity:
+      - hour: "9:00 - 9:20"
+        where:
+        who: "Saluti Istituzionali"
+        descr: ""
+        tag: "conf"
+        id:
+      - hour: "9:20 - 9:40"
+        where:
+        who: "Barbara Valotti, Fondazione Marconi"
+        descr: "Il ragazzo del wireless: Guglielmo Marconi 1874/2024"
+        tag: "conf"
+        id: speaker/#valotti
+      - hour: "9:40 - 10:00"
+        where:
+        who: "Miriam Focaccia (CREF)"
+        descr: "Marconi, Corbino e l'Istituto di Fisica di via Panisperna"
+        tag:
+        id: speaker/#focaccia
+      - hour: "10:00 - 10:20"
+        where:
+        who: "Ernesto Ciaramella (PISA)"
+        descr: "Comunicazioni ottiche wireless"
+        tag:
+        id: speaker/#ciaramella
+      - hour: "10:20 - 10:40"
+        where:
+        who: "Marco A.C. Potenza (Statale Milano)"
+        descr: "Connessioni (ottiche) tra Ricerca di base e Industria"
+        tag:
+        id: speaker/#potenza
+      - hour: "10:40 - 11:00"
+        where:
+        who: "Silvio Pardi  (INFN, Sezione di Napoli)"
+        descr: "Da zero al Tbit/s: l'evoluzione del calcolo distribuito nell'INFN sull'onda della crescita delle reti"
+        tag:
+        id: speaker/#pardi
+      - hour: "11:30 - 11:20"
+        who: "Coffee Break"
+      - hour: "11:20 - 13:00"
+        who: "Panel Discussion"

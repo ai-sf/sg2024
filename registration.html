@@ -1,0 +1,18 @@
+---
+layout: page
+title: Iscrizione
+---
+
+{% include description.html data = site.data.registration %}
+{% include cards.html data = site.data.registration %}
+{% include sections.html data = site.data.registration %}
+
+<!--<h4> Registration form </h4>-->
+{% assign today_date = 'now' | date: '%s' %}
+{% assign ending_date = site.data.registration.ending_date | date: '%s' %}
+{% if today_date < ending_date %} <iframe id="regform"
+    src="https://forms.gle/MgdZxwjyfTcdx77F6"
+    frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    {% else %}
+    <h2>Iscrizioni chiuse</h2>
+    {% endif %}
