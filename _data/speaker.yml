@@ -1,53 +1,52 @@
 description:
 
 content:
+  - nome: "Barbara Valotti"
+    id: valotti
+    uni: "Museo Marconi, Fondazione Guglielmo Marconi, Sasso Marconi, Bologna"
+    img: "valotti.jpg"
+    title: "Il ragazzo del wireless: Guglielmo Marconi 1874/2024"
+    bio: ""
+    abstract: "Guglielmo Marconi intuì la possibilità della comunicazione senza fili mediante onde elettromagnetiche a 20 anni, l'anno successivo - grazie a una intensa attività sperimentale svolta nella residenza di famiglia, la Villa Griffone situata sulle prime colline bolognesi - inventò la radiotelegrafia, a 23 anni fondò a Londra la prima azienda nel settore del wireless e a 27 anni realizzò un'impresa ritenuta impossibile, ossia la trasmissione di un segnale radio attraverso l'Atlantico e a 35 anni fu il primo italiano a vincere il Premio Nobel per la Fisica. Nella presentazione saranno presentati il contesto e il percorso che portarono un “giovane dilettante appassionato di elettricit`a” (così si definì Marconi nella prima intervista che rilasciò alla stampa britannica) ad agire da vero e proprio pioniere della comunicazione wireless prima dei trent'anni e a divenire il simbolo delle radiocomunicazioni nel corso di una lunga carriera in cui fu inventore, sperimentatore e imprenditore globale imponendosi come figura-chiave della modernità. Eppure, non sempre è riconosciuto come tale e nell'anno in cui ricorre il 150esimo della nascita questo contributo ne delinea un ritratto a tutto tondo."
+    link:
+    slides:
 
-- nome: "Barbara Valotti"
-  id: valotti
-  uni: "Museo Marconi, Fondazione Guglielmo Marconi, Sasso Marconi, Bologna"
-  img: "default.png"
-  title: "Il ragazzo del wireless: Guglielmo Marconi 1874/2024"
-  bio: ""
-  abstract: "Guglielmo Marconi intuì la possibilità della comunicazione senza fili mediante onde elettromagnetiche a 20 anni, l'anno successivo - grazie a una intensa attività sperimentale svolta nella residenza di famiglia, la Villa Griffone situata sulle prime colline bolognesi - inventò la radiotelegrafia, a 23 anni fondò a Londra la prima azienda nel settore del wireless e a 27 anni realizzò un'impresa ritenuta impossibile, ossia la trasmissione di un segnale radio attraverso l'Atlantico e a 35 anni fu il primo italiano a vincere il Premio Nobel per la Fisica. Nella presentazione saranno presentati il contesto e il percorso che portarono un “giovane dilettante appassionato di elettricit`a” (così si definì Marconi nella prima intervista che rilasciò alla stampa britannica) ad agire da vero e proprio pioniere della comunicazione wireless prima dei trent'anni e a divenire il simbolo delle radiocomunicazioni nel corso di una lunga carriera in cui fu inventore, sperimentatore e imprenditore globale imponendosi come figura-chiave della modernità. Eppure, non sempre è riconosciuto come tale e nell'anno in cui ricorre il 150esimo della nascita questo contributo ne delinea un ritratto a tutto tondo."
-  link:
-  slides:
+  - nome: "Miriam Focaccia"
+    id: focaccia
+    uni: "Museo Storico della Fisica e Centro Studi e Ricerche “Enrico Fermi”, Roma"
+    img: "focaccia.jpg"
+    title: "Marconi, Corbino e l'Istituto di Fisica di via Panisperna"
+    bio: ""
+    abstract: "Nel 1929, in un'intervista a un'agenzia americana, Marconi affermava che tra gli sviluppi più interessanti e promettenti della fisica erano senz'altro la fisica del nucleo atomico e la televisione. Nel 1931, all'Istituto di Fisica dell'Università di Roma, venne organizzato il primo congresso internazionale di fisica nucleare. L'idea fu di Enrico Fermi, Segretario generale, mentre Orso Mario Corbino, direttore dell'Istituto di Fisica, era il Presidente effettivo, con Guglielmo Marconi Presidente onorario. Nel luglio del 1936, dopo che l'Istituto di Fisica venne traslocato nella nuova città universitaria, a Panisperna venne costituito l'Istituto di Elettroacustica del Consiglio Nazionale delle Ricerche diretto da Corbino. Se l'ideatore fu Corbino, decisivo fu appoggio dell'allora presidente del CNR, Marconi. Partendo da queste tappe storiche e scientifiche, si tenta di ripercorrere il rapporto e il sostegno dati da Marconi all'Istituto di Fisica romano e ai suoi protagonisti; un rapporto e un sostegno stretti e proficui, a partire dai comuni interessi scientifici, e rafforzati dalle diverse posizioni istituzionali occupate da queste personalità all'interno del Consiglio Nazionale delle Ricerche, dell'Accademia d'Italia e dell'Università."
+    link:
+    slides:
 
-- nome: "Miriam Focaccia"
-  id: focaccia
-  uni: "Museo Storico della Fisica e Centro Studi e Ricerche “Enrico Fermi”, Roma"
-  img: "default.png"
-  title: "Marconi, Corbino e l'Istituto di Fisica di via Panisperna"
-  bio: ""
-  abstract: "Nel 1929, in un'intervista a un'agenzia americana, Marconi affermava che tra gli sviluppi più interessanti e promettenti della fisica erano senz'altro la fisica del nucleo atomico e la televisione. Nel 1931, all'Istituto di Fisica dell'Università di Roma, venne organizzato il primo congresso internazionale di fisica nucleare. L'idea fu di Enrico Fermi, Segretario generale, mentre Orso Mario Corbino, direttore dell'Istituto di Fisica, era il Presidente effettivo, con Guglielmo Marconi Presidente onorario. Nel luglio del 1936, dopo che l'Istituto di Fisica venne traslocato nella nuova città universitaria, a Panisperna venne costituito l'Istituto di Elettroacustica del Consiglio Nazionale delle Ricerche diretto da Corbino. Se l'ideatore fu Corbino, decisivo fu appoggio dell'allora presidente del CNR, Marconi. Partendo da queste tappe storiche e scientifiche, si tenta di ripercorrere il rapporto e il sostegno dati da Marconi all'Istituto di Fisica romano e ai suoi protagonisti; un rapporto e un sostegno stretti e proficui, a partire dai comuni interessi scientifici, e rafforzati dalle diverse posizioni istituzionali occupate da queste personalità all'interno del Consiglio Nazionale delle Ricerche, dell'Accademia d'Italia e dell'Università."
-  link:
-  slides:
+  - nome: "Ernesto Ciaramella"
+    id: ciaramella
+    uni: "Scuola Superiore Sant'Anna, Pisa"
+    img: "ciaramella.jpg"
+    title: "Comunicazioni ottiche wireless"
+    bio: ""
+    abstract: "L'intervento presenta le principali caratteristiche scientifiche e le molteplici prospettive delle comunicazioni ottiche wireless, nella regione della luce visibile e infrarossa. Si illustrano alcune realizzazioni sperimentali di sistemi wireless ottici, effettuate presso i laboratori della Scuola Superiore Sant'Anna. Sono descritte anche alcune recenti linee di ricerca nel campo delle comunicazioni per lo spazio: comunicazioni a bordo di satelliti a breve distanza e comunicazioni su grandi distanze, come collegamenti tra satelliti diversi e tra satellite e Terra."
+    link:
+    slides:
 
-- nome: "Ernesto Ciaramella"
-  id: ciaramella
-  uni: "Scuola Superiore Sant'Anna, Pisa"
-  img: "default.png"
-  title: "Comunicazioni ottiche wireless"
-  bio: ""
-  abstract: "L'intervento presenta le principali caratteristiche scientifiche e le molteplici prospettive delle comunicazioni ottiche wireless, nella regione della luce visibile e infrarossa. Si illustrano alcune realizzazioni sperimentali di sistemi wireless ottici, effettuate presso i laboratori della Scuola Superiore Sant'Anna. Sono descritte anche alcune recenti linee di ricerca nel campo delle comunicazioni per lo spazio: comunicazioni a bordo di satelliti a breve distanza e comunicazioni su grandi distanze, come collegamenti tra satelliti diversi e tra satellite e Terra."
-  link:
-  slides:
+  - nome: "Marco A.C. Potenza"
+    id: potenza
+    uni: "Università di Milano"
+    img: "potenza.jpg"
+    title: "Connessioni (ottiche) tra Ricerca di base e Industria"
+    bio: ""
+    abstract: "Il termine “trasferimento tecnologico” viene spesso interpretato a senso unico, dalla Ricerca alle applicazioni, ma rappresenta una realtà più complessa fatta di un dialogo continuo tra lo scienziato, il tecnologo e la Natura, tra la Ricerca e le sue applicazioni, che può generare in sè la Conoscenza necessaria all'Industria. Se un asserto scientifico è tale solo se falsificabile, come può questo essere utile all'Industria, dove sono essenziali ripetibilità e previsione? Questi temi verranno sviluppati prendendo spunto dallo sviluppo di una tecnologia per telecomunicazioni mediante interconnessioni ottiche, brevettata dall'Università di Milano e portata alla creazione di impresa. Lo studio dei fronti d'onda svolto negli anni scorsi, dall'astronomia ai fasci emessi dagli acceleratori di particelle, e lo sviluppo di strumenti per lo Spazio e gli ambienti estremi, hanno fatto emergere un metodo robusto per il riconoscimento di particolari fasci di luce: è possibile generare diversi fasci, modularli, sovrapporli, trasmetterli e quindi distinguere le informazioni su ciascuno di essi. La tecnica ha subito destato l'interesse del mondo imprenditoriale per lo sviluppo in ambito spaziale."
+    link:
+    slides:
 
-- nome: "Marco A.C. Potenza"
-  id: potenza
-  uni: "Università di Milano"
-  img: "potenza.jpg"
-  title: "Connessioni (ottiche) tra Ricerca di base e Industria"
-  bio: ""
-  abstract: "Il termine “trasferimento tecnologico” viene spesso interpretato a senso unico, dalla Ricerca alle applicazioni, ma rappresenta una realtà più complessa fatta di un dialogo continuo tra lo scienziato, il tecnologo e la Natura, tra la Ricerca e le sue applicazioni, che può generare in sè la Conoscenza necessaria all'Industria. Se un asserto scientifico è tale solo se falsificabile, come può questo essere utile all'Industria, dove sono essenziali ripetibilità e previsione? Questi temi verranno sviluppati prendendo spunto dallo sviluppo di una tecnologia per telecomunicazioni mediante interconnessioni ottiche, brevettata dall'Università di Milano e portata alla creazione di impresa. Lo studio dei fronti d'onda svolto negli anni scorsi, dall'astronomia ai fasci emessi dagli acceleratori di particelle, e lo sviluppo di strumenti per lo Spazio e gli ambienti estremi, hanno fatto emergere un metodo robusto per il riconoscimento di particolari fasci di luce: è possibile generare diversi fasci, modularli, sovrapporli, trasmetterli e quindi distinguere le informazioni su ciascuno di essi. La tecnica ha subito destato l'interesse del mondo imprenditoriale per lo sviluppo in ambito spaziale."
-  link:
-  slides:
-
-- nome: "Silvio Pardi"
-  id: pardi
-  uni: "INFN - Sezione di Napoli"
-  img: "default.png"
-  title: "Da zero al Tbit/s: l'evoluzione del calcolo distribuito nell'INFN sull'onda della crescita delle reti"
-  bio: ""
-  abstract: "A paritre dagli anni '70 gli istituti di ricerca italiani iniziarono a implementare le prime reti di calcolatori. L'INFN fu pioniera, creando INFN Net e lavorando ai primi collegamenti internazionali con CERN, Fermilab e KEK per gli esperimenti HEP. La nascita del web negli anni '90 e la creazione di grandi Data Centers spinsero l'avanzamento delle reti. Nello stesso decennio, lo sviluppo del Grid Computing diede inizio alle grandi infrastrutture mondiali di calcolo distribuito, essenziali per il calcolo degli esperimenti LHC che confermarono l'esistenza dell'Higgs nel 2012. Con l'introduzione del Cloud Computing, si ottenne una maggiore personalizzazione degli ambienti di calcolo, in parallelo, i modelli di Big Data e Data Lake definirono nuovi modi per la condivisione dei dati su reti sempre più veloci. L'INFN è stata leader in questa evoluzione, dalla nascita delle prime reti alla creazione del Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing (ICSC). Questa presentazione descrive l'evoluzione di queste tecnologie e come è cambiato l'uso delle risorse di calcolo grazie alla crescita delle reti."
-  link:
-  slides:
+  - nome: "Silvio Pardi"
+    id: pardi
+    uni: "INFN - Sezione di Napoli"
+    img: "pardi.jpg"
+    title: "Da zero al Tbit/s: l'evoluzione del calcolo distribuito nell'INFN sull'onda della crescita delle reti"
+    bio: ""
+    abstract: "A paritre dagli anni '70 gli istituti di ricerca italiani iniziarono a implementare le prime reti di calcolatori. L'INFN fu pioniera, creando INFN Net e lavorando ai primi collegamenti internazionali con CERN, Fermilab e KEK per gli esperimenti HEP. La nascita del web negli anni '90 e la creazione di grandi Data Centers spinsero l'avanzamento delle reti. Nello stesso decennio, lo sviluppo del Grid Computing diede inizio alle grandi infrastrutture mondiali di calcolo distribuito, essenziali per il calcolo degli esperimenti LHC che confermarono l'esistenza dell'Higgs nel 2012. Con l'introduzione del Cloud Computing, si ottenne una maggiore personalizzazione degli ambienti di calcolo, in parallelo, i modelli di Big Data e Data Lake definirono nuovi modi per la condivisione dei dati su reti sempre più veloci. L'INFN è stata leader in questa evoluzione, dalla nascita delle prime reti alla creazione del Centro Nazionale di Ricerca in High Performance Computing, Big Data e Quantum Computing (ICSC). Questa presentazione descrive l'evoluzione di queste tecnologie e come è cambiato l'uso delle risorse di calcolo grazie alla crescita delle reti."
+    link:
+    slides:
